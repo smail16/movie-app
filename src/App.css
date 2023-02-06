@@ -1,0 +1,21 @@
+.App {
+ 
+  
+  background-image: url(https://thumbs.dreamstime.com/b/cinema-seamless-background-modern-linear-elements-seamless-background-linear-movie-characters-vector-pattern-139002029.jpg);
+  object-fit: contain;
+  
+}
+
+.head{
+  background-color: black;
+  color: aqua;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

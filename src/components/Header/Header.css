@@ -1,0 +1,9 @@
+.titre{
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 1000;
+    color: brown;
+    transition: all 0.4s ease-in-out;
+    overflow-y:hidden;
+    transform: translateY(101%);
+}
