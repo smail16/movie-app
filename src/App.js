@@ -10,6 +10,16 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 const moviedata = [
   {
     id: Math.random(),
+    posteurl: "/av.jpg",
+    title: "Avengers",
+    rate: "4",
+    date: "April 2018",
+    trailer: "https://www.youtube.com/embed/hA6hldpSTF8",
+    description:
+      "Les Avengers étaient une équipe d'individus extraordinaires, dotés de super-pouvoirs ou de caractéristiques particulières. Le but de l'équipe était de protéger la stabilité mondiale contre les menaces intérieures ou extraterrestres",
+  },
+  {
+    id: Math.random(),
     posteurl: "/sw.jpg",
     title: "Star wars",
     rate: "5",
